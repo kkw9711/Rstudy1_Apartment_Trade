@@ -37,7 +37,7 @@ rsconnect::setAccountInfo(rsconnect::setAccountInfo(name='stationproject', token
 
 #APIKey등록
 
-googleAPIkey <- "AIzaSyDRwJnf5jUX-g3J5GsAQbny-WZFGXtMWqA"
+googleAPIkey <- ""
 register_google(googleAPIkey)
 
 #geocode 함수로 station_code 값을 위도와 경도로 변환한다.
